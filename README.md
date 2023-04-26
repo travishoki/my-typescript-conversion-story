@@ -1,7 +1,7 @@
 # My Typescript Conversion Story
 
 I was not on board with typescript.
-![alt text](https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png "Typescript")
+![alt text](https://i.imgflip.com/183pbl.jpg "Typescript")
 
 # What's the Error?!
 
