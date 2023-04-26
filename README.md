@@ -51,3 +51,7 @@ Fixing this, breaks that! If I fix this, then I have to fix that!
 ## I'm Still No Expert
 
 ![alt text](https://media.makeameme.org/created/brace-yourselves-typescript.jpg "Typescript")
+
+# Examples of Typescript vs Javascript Code
+
+https://github.com/travishoki/my-typescript-conversion-story/tree/master/src/examples
