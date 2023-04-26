@@ -19,4 +19,5 @@ export const UserComponent = () => {
 Response:
 Ok, that's useful.
 You will know the shape of the hook's returned value.
+Helps when passing variables around.
 */
