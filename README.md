@@ -12,8 +12,8 @@ These error messages are so confusing! Huge blocks of nonsense! Not Helpful!
 # Dumpster Fire of Errors
 
 Adding types to an existing project is the worst!
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNIT7Qgp8Cn2gUehvck2rrHIpg_xpKIWKG6g&usqp=CAU "Highlight All the Things")
 ![alt text](https://images7.memedroid.com/images/UPLOADED137/5490f363cbaf2.jpeg "Highlight All the Things")
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNIT7Qgp8Cn2gUehvck2rrHIpg_xpKIWKG6g&usqp=CAU "Highlight All the Things")
 
 # OCD Much?!
 
