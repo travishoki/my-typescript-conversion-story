@@ -1,46 +1,51 @@
-# Getting Started with Create React App
+# My Typescript Conversion Story
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I was not on board with typescript
+![alt text](https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png "Typescript")
 
-## Available Scripts
+# What's the Error?!
 
-In the project directory, you can run:
+These error messages are so confusing! Huge blocks of nonsense! Not Helpful!
+![alt text](https://www.techrepublic.com/wp-content/uploads/2009/08/titlepage.png "Confusing errors")
+![alt text](https://imgflip.com/s/meme/Jackie-Chan-WTF.jpg "Jakie Chan Meme")
 
-### `npm start`
+# Dumpster Fire of Errors
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Adding types to an existing project is the worst!
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNIT7Qgp8Cn2gUehvck2rrHIpg_xpKIWKG6g&usqp=CAU "Highlight All the Things")
+![alt text](https://images7.memedroid.com/images/UPLOADED137/5490f363cbaf2.jpeg "Highlight All the Things")
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# OCD Much?!
 
-### `npm test`
+A document full of red squigles breaks my break! I can't live like this!
+![alt text](https://pbs.twimg.com/media/B_BxfEoWoAADQM_?format=jpg&name=small "2 Kinds of People")
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Is this Really Useful?
 
-### `npm run build`
+```
+const num: number = 1;
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![alt text](https://media.makeameme.org/created/tell-me-something-wsf4r7.jpg "Tell me something I don't know")
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# So Many rabit Holes
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Fixing this, breaks that! If I fix this, then I have to fix that!
+![alt text](https://preview.redd.it/b2l3zk6je6z61.png?auto=webp&s=3eb4147bbe1ad4b7953ee0bd9682c5d94e5a7fea "Rabbit Holes")
 
-### `npm run eject`
+# Typescript is a Journey
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![alt text](https://media.makeameme.org/created/one-does-not-6ef0944d8e.jpg "Typescript no simple")
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Starting to see the Light
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![alt text](https://media.makeameme.org/created/i-can-see-f2l2mk.jpg "Tell me something I don't know")
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# What Typescript feels like now
 
-## Learn More
+![alt text](https://img-9gag-fun.9cache.com/photo/aRrNEZQ_460s.jpg "Javascript vs Typescript 2")
+![alt text](https://pbs.twimg.com/media/EzRewP5VUAowWoN.png "Javascript vs Typescript 2")
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Still No Expert
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![alt text](https://media.makeameme.org/created/brace-yourselves-typescript.jpg "Typescript")
