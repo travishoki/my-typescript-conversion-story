@@ -27,4 +27,5 @@ export const updateUser = () => {
 /*
 Response:
 Ooh! Protects you from changing the shape of a defined type.
+You are forced to defined variables with more intent.
 */
