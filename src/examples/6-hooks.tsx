@@ -17,6 +17,6 @@ export const UserComponent = () => {
 
 /*
 Response:
-Ok, that's kind of useful.
+Ok, that's useful.
 You will know the shape of the hook's returned value.
 */
