@@ -1,6 +1,6 @@
 # Conclusion
 
-# Typescript's Purpose
+## Typescript's Purpose
 
 - Typescript helps to point out unhandled situations
 - Transparency with props and responses
