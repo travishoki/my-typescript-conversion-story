@@ -24,6 +24,8 @@ A document full of red squigles breaks my brain! I can't live like this!
 
 ```typescript
 const num: number = 1;
+
+function(num: number, str: string) {
 ```
 
 ![alt text](https://media.makeameme.org/created/tell-me-something-wsf4r7.jpg "Tell me something I don't know")
