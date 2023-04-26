@@ -17,7 +17,7 @@ Adding types to an existing project is the worst!
 
 # OCD Much?!
 
-A document full of red squigles breaks my break! I can't live like this!
+A document full of red squigles breaks my brain! I can't live like this!
 ![alt text](https://pbs.twimg.com/media/B_BxfEoWoAADQM_?format=jpg&name=small "2 Kinds of People")
 
 # Is this Really Useful?
