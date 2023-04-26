@@ -1,6 +1,6 @@
 # My Typescript Conversion Story
 
-I was not on board with typescript
+I was not on board with typescript.
 ![alt text](https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png "Typescript")
 
 # What's the Error?!
@@ -22,13 +22,13 @@ A document full of red squigles breaks my break! I can't live like this!
 
 # Is this Really Useful?
 
-```
+```typescript
 const num: number = 1;
 ```
 
 ![alt text](https://media.makeameme.org/created/tell-me-something-wsf4r7.jpg "Tell me something I don't know")
 
-# So Many rabit Holes
+# So Many rabit Holes!
 
 Fixing this, breaks that! If I fix this, then I have to fix that!
 ![alt text](https://preview.redd.it/b2l3zk6je6z61.png?auto=webp&s=3eb4147bbe1ad4b7953ee0bd9682c5d94e5a7fea "Rabbit Holes")
@@ -46,6 +46,6 @@ Fixing this, breaks that! If I fix this, then I have to fix that!
 ![alt text](https://img-9gag-fun.9cache.com/photo/aRrNEZQ_460s.jpg "Javascript vs Typescript 2")
 ![alt text](https://pbs.twimg.com/media/EzRewP5VUAowWoN.png "Javascript vs Typescript 2")
 
-# Still No Expert
+# I'm Still No Expert
 
 ![alt text](https://media.makeameme.org/created/brace-yourselves-typescript.jpg "Typescript")
