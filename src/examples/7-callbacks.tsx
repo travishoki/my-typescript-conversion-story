@@ -24,6 +24,7 @@ export const Container = () => {
 
 /*
 Response:
-Oh! I like callbacks letting me know what's going to be return.
+Oh! I like callbacks letting me know what's going to be returned.
+Render props can spend types as well.
 Types can go up-and-down the chain.
 */

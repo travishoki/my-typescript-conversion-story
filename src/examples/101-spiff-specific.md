@@ -17,8 +17,8 @@ CI will run the `yarn ts-check` script to make sure that types are valid across 
 
 By default files will be Type checked. We have a list of files that we "opt-out" of type checking.
 `scripts/nonTypeCheckedFiles.json`
-Please help to clean up these files.
-Please try to create cleanly typed files and not add files to `nonTypeCheckFiles.json`
+Please help to clean up the files on this list.
+Please try to create cleanly typed files and not add files to this list.
 
 # Stats
 
