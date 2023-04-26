@@ -17,6 +17,6 @@ export const UserComponent = () => {
 
 /*
 Response:
-Ok, that's kind useful.
-This will prevent using undefined props.
+Ok, that's kind of useful.
+You will know the shape of the hook's returned value.
 */

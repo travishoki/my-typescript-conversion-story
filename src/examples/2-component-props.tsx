@@ -18,7 +18,7 @@ export const Container = () => (
 /*
 Response:
 I'm 100% on board with defining prop types! Very useful!
-Although, there are libraries for that. I still don't wanna learn Typescript.
+Although, there are libraries for that. I still don't wanna learn Typescript!
 
 Example Library:
 import PropTypes from 'prop-types';

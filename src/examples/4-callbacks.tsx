@@ -25,4 +25,5 @@ export const Container = () => {
 /*
 Response:
 Oh! I like callbacks letting me know what's going to be return.
+Types can go up and down the chain.
 */
